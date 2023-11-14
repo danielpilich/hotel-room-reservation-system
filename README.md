@@ -1,2 +1,2 @@
 # hotel-room-reservation-system
-Project created on the university to show the skills of creating programs using C# language.
+A project created at the university to demonstrate the ability to create programs in C#.
